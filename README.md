@@ -12,6 +12,10 @@ Relevant manuscripts:
 
 ## Description of scripts:
 
-    Get_Env_Data_A.R (run once at beginning of the day): Get data sequence number one : Create final and temporary directories, acquire all static variables.
-    Get_Env_Data_B.R (run multiple times during the day): Get data sequence number two : See which dynamic variables are missing. If none are missing, run EcoCast. If variables are missing, attempt to download missing variables. See which dynamic variables are still missing after download attempt. If none are missing, run EcoCast.
-    Get_Env_Data_C.R (run once at end of the day): Get data sequence number three : Evaluates the most recent version of environmental data available, and then runs EcoCast. Script will not overwrite pre-existing final products (i.e. if final products were created by Get_Env_Data_B.R).
+**1_load_packages.R** - Checks if all required packages are installed. If not, packages and all dependencies will be installed from the default CRAN mirror.  
+**2_download_environmental_data.R** - Downloads relevant environmental data as netcdfs from CoastWatch-West Coast ERDDAP: https://coastwatch.pfeg.noaa.gov/erddap/index.html.  
+**3a_extract_functions.R** - Functions to support 3_extract_environmental_data_at_records.R.  
+**3b_extract_environmental_data_at_records.R** - Extracts downloaded environmental data to species records.  
+**4_fit_and_evaluate_BRTs.R** - Fits and evaluates Boosted Regression Tree models.  
+**5_predict_BRTs.R** - Predicts confidence intervals, mean, and standard error surfaces for all species for target date.  
+**6_plot_EcoCast.R** - Runs and plots EcoCast for all species.
