@@ -1,4 +1,4 @@
-## Fit and evaluate Boosted Regression Tree models 
+## Fits and evaluates Boosted Regression Tree models 
 
 ## define fit and evaluate functions
 fit.brt <- function(x,gbm.x,gbm.y,tree.com,bag.frac,lr){

@@ -1,4 +1,4 @@
-## Runs and plots EcoCast from for all species
+## Runs and plots EcoCast for all species
 
   ## load required functions
   

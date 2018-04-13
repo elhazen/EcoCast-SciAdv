@@ -1,5 +1,5 @@
 ## Extracts downloaded environmental data to species records
-# load functions in 3_extract_functions.R
+# load functions in 3a_extract_functions.R
 
 ## Variable metadata and name structure
 # name: jplL4Avhrr, variable: SST, metadata: GHRSST Level 4 AVHRR_OI Global Blended Sea Surface Temperature Analysis, Global, 0.25 Degree, Daily

@@ -1,4 +1,4 @@
-## Functions to support 3_extract_environmental_data_at_records.R
+## Functions to support 3b_extract_environmental_data_at_records.R
 
 # convert -180, 180 --> 0, 360
 make360 <- function(lon){
