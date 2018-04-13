@@ -14,13 +14,13 @@ Relevant manuscripts:
 
 **1_load_packages.R** - Checks if all required packages are installed. If not, packages and all dependencies will be installed from the default CRAN mirror.  
 
-**2_download_environmental_data.R** - Downloads relevant environmental data as netcdfs from CoastWatch-West Coast ERDDAP: https://coastwatch.pfeg.noaa.gov/erddap/index.html. Data included not available on ERDDAP such as SSH can be downloaded directly from AVISO / CMEMS, e.g. https://www.aviso.altimetry.fr/en/data/products/sea-surface-height-products/global/sla-h.html 
+**2_download_environmental_data.R** - Downloads relevant environmental data as netcdfs from CoastWatch-West Coast ERDDAP: https://coastwatch.pfeg.noaa.gov/erddap/index.html. Data not available on ERDDAP can be downloaded directly from the data provider, such as SSHa via AVISO / CMEMS, e.g. https://www.aviso.altimetry.fr/en/data/products/sea-surface-height-products/global/sla-h.html 
 
 **3a_extract_functions.R** - Functions to support 3_extract_environmental_data_at_records.R.  
 
 **3b_extract_environmental_data_at_records.R** - Extracts downloaded environmental data to species records.  
 
-**4_fit_and_evaluate_BRTs.R** - Fits and evaluates Boosted Regression Tree models.  
+**4_fit_and_evaluate_BRTs.R** - Fits and evaluates Boosted Regression Tree models for a single species.  
 
 **5_predict_BRTs.R** - Predicts confidence intervals, mean, and standard error surfaces for all species for target date.  
 
