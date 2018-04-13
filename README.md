@@ -9,7 +9,7 @@ Relevant manuscripts:
 **Welch et al.** "Practical considerations for operationalizing dynamic management tools." In prep.  
 **Hazen et al. 2017.** "WhaleWatch: a dynamic management tool for predicting blue whale density in the California Current." Journal of Applied Ecology 54: 1415-1428.  
 
-##Description of scripts:
+##Description of scripts:##
 
     Get_Env_Data_A.R (run once at beginning of the day): Get data sequence number one : Create final and temporary directories, acquire all static variables.
     Get_Env_Data_B.R (run multiple times during the day): Get data sequence number two : See which dynamic variables are missing. If none are missing, run EcoCast. If variables are missing, attempt to download missing variables. See which dynamic variables are still missing after download attempt. If none are missing, run EcoCast.
