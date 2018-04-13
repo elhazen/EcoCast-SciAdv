@@ -5,8 +5,8 @@ Code authors: Elliott Hazen (NOAA, UCSC), Kylie Scales (University of the Sunshi
 
 Relevant manuscripts:
 
-**Hazen et al.** “A dynamic ocean management tool to reduce bycatch and support sustainable fisheries.” Science Advances. In prep. 
-**Welch et al.** "Practical considerations for operationalizing dynamic management tools." In prep.  
+**Hazen et al.** “A dynamic ocean management tool to reduce bycatch and support sustainable fisheries.” Science Advances. In prep.   
+**Welch et al.** "Practical considerations for operationalizing dynamic management tools." In prep.    
 **Scales et al. 2017** "Fit to predict? Eco-informatics for predicting the catchability of a pelagic fish in near real time." Ecological Applications 27: 2313-2329.  
 **Hazen et al. 2017** "WhaleWatch: a dynamic management tool for predicting blue whale density in the California Current." Journal of Applied Ecology 54: 1415-1428.  
 
