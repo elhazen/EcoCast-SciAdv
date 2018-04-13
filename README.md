@@ -7,7 +7,7 @@ Relevant manuscripts:
 
 **Hazen et al.** “A dynamic ocean management tool to reduce bycatch and support sustainable fisheries.” Sciences Advances. 2018.  
 **Welch et al.** "Practical considerations for operationalizing dynamic management tools." In prep.  
-**Scales et al.** "Fit to predict? Eco-informatics for predicting the catchability of a pelagic fish in near real time." Ecological Applications 27: 2313-2329.
+**Scales et al.** "Fit to predict? Eco-informatics for predicting the catchability of a pelagic fish in near real time." Ecological Applications 27: 2313-2329.  
 **Hazen et al. 2017.** "WhaleWatch: a dynamic management tool for predicting blue whale density in the California Current." Journal of Applied Ecology 54: 1415-1428.  
 
 ## Description of scripts:
