@@ -1,4 +1,7 @@
 # EcoCast-SciAdv
+
+<img src="inst/imgs/logo.png?raw=True" width="100">
+
 Code supporting the publication "A dynamic ocean management tool to reduce bycatch and support sustainable fisheries". Science Advances. 2018.
 
 Code authors: Elliott Hazen (NOAA, UCSC), Kylie Scales (University of the Sunshine Coast), Heather Welch (UCSC, NOAA), Sara Maxwell (ODU), and Dana Briscoe (UCSC)
