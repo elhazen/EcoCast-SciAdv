@@ -1,6 +1,6 @@
 # EcoCast-SciAdv
 
-<img src="EcoCast-SciAdv/inst/imgs/logo.png?raw=True" width="100">
+<img src="inst/imgs/logo.png?raw=True" width="100">
 
 Code supporting the publication "A dynamic ocean management tool to reduce bycatch and support sustainable fisheries". Science Advances. 2018.
 
