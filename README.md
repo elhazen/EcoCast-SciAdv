@@ -8,7 +8,7 @@ Code authors: Elliott Hazen (NOAA, UCSC), Kylie Scales (University of the Sunshi
 
 Relevant manuscripts:
 
-**Hazen et al.** “A dynamic ocean management tool to reduce bycatch and support sustainable fisheries.” Science Advances. In prep.   
+**Hazen et al.2018 “A dynamic ocean management tool to reduce bycatch and support sustainable fisheries.” Science Advances 4: eaar3001.    
 **Welch et al.** "Practical considerations for operationalizing dynamic management tools." In prep.    
 **Scales et al. 2017** "Fit to predict? Eco-informatics for predicting the catchability of a pelagic fish in near real time." Ecological Applications 27: 2313-2329.  
 **Hazen et al. 2017** "WhaleWatch: a dynamic management tool for predicting blue whale density in the California Current." Journal of Applied Ecology 54: 1415-1428.  
@@ -29,6 +29,6 @@ Relevant manuscripts:
 
 **6_plot_EcoCast.R** - Runs and plots EcoCast for all species.
 
-EcoCast information page (tool and product) will be available at: COMING SOON.
+EcoCast information page (tool and product) will be available at: http://coastwatch.pfeg.noaa.gov/ecocast
 
 Operationalization built by Heather Welch, for the daily running of EcoCast, is available at: https://github.com/HeatherWelch/EcoCast_Operationalization
