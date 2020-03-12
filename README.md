@@ -8,10 +8,18 @@ Code authors: Elliott Hazen (NOAA, UCSC), Kylie Scales (University of the Sunshi
 
 Relevant manuscripts:
 
-**Hazen et al.2018** “A dynamic ocean management tool to reduce bycatch and support sustainable fisheries.” Science Advances 4: eaar3001. 
+**Hazen et al. 2018** “A dynamic ocean management tool to reduce bycatch and support sustainable fisheries.” Science Advances 4: eaar3001. 
+
+**Maxwell et al. 2019** "Oceanographic drivers of spatial segregation in blue sharks by sex and size class." Diversity and Distributions 25: 1304-1317. doi.org/10.1111/ddi.12941
+
 **Welch et al. 2018** "Practical considerations for operationalizing dynamic management tools." Journal of Applied Ecology.DOI: 10.1111/1365-2664.13281.
+
+**Briscoe et al. 2018** "Characterizing habitat suitability of a central-place forager in a dynamic marine environment." Ecology and Evolution. DOI: 10.1002/ece3.3827.
+
 **Scales et al. 2017** "Fit to predict? Eco-informatics for predicting the catchability of a pelagic fish in near real time." Ecological Applications 27: 2313-2329.  
+
 **Hazen et al. 2017** "WhaleWatch: a dynamic management tool for predicting blue whale density in the California Current." Journal of Applied Ecology 54: 1415-1428.  
+
 
 ## Description of scripts:
 
