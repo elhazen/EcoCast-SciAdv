@@ -23,7 +23,7 @@
 
 ## import species records
 setwd("record_directory")
-master=read.csv("species_records.csv")
+master=read.csv("species_records.csv").   ### species_records to have at least 3 columns - lat, lon, dt.
 head(master)
 summary(master$presabs) # 0s and 1s
 master$dt=as.Date(master$dt) ## make sure date is in date format
