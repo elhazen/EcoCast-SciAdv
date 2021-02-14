@@ -26,10 +26,10 @@ setwd("record_directory")
 master=read.csv("species_records.csv")
 head(master)
 summary(master$presabs) # 0s and 1s
-mstr$dt=as.Date(mstr$dt) ## make sure date is in date format
+master$dt=as.Date(master$dt) ## make sure date is in date format
 
 ## points for extraction, with latitude longitude and date as lat lon dt
-obsdata <- mstr
+obsdata <- master
 obsdata$X <- seq(1, nrow(obsdata),by=1)
 head(obsdata)
 
